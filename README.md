@@ -29,7 +29,7 @@ Key Screens
 
 Design
 
-[View Complete UI/UX Design](Desktop%20-%201%20%282%29.pdf)
+[View Complete UI/UX Design](Travel_Explore_UIUX_Design.pdf)
 [View Figma Portotype](https://www.figma.com/design/emb58EnLl7MHuO5WVSa9bG/Untitled?node-id=0-1&t=GKtVkX0jd8Y6aeVE-1)
 
 Designed By
